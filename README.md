@@ -42,8 +42,11 @@ I have travelled to 5 coutries in that, I would like to recommend four countries
 
 ***
 
-## 
+## Code Fencing
 
 > [Facebook Like button in wordpress theme](https://stackoverflow.com/questions/9619949/facebook-like-button-in-wordpress-theme)
+
+''' <iframe src="http://www.facebook.com/plugins/like.php?href=<?php echo rawurlencode(get_permalink()); ?>&amp;layout=standard&amp;show-faces=true&amp;width=450&amp;action=like&amp;font=arial&amp;colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" id="facebook-like"></iframe> '''
+[Source](https://css-tricks.com/snippets/wordpress/facebook-like-button/);
 
 
