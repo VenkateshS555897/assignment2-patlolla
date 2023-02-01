@@ -20,5 +20,14 @@ Other Teams I would like to watch play are
 
 ![Click here to know more about me](AboutMe.md)
 
+***
 
+## Favourite countries to visit
+I have travelled to 5 coutries in that, I would like to recommend four countries to visit during the summer break. In below each country a special event is happing in summer.
 
+| Country Name | Reason for recommendation     | Days spent|
+|--------------|-------------------------------|-----------| 
+|India         |To watch World cup final match | 13|
+|Qatar         |   To watch live FIFA World Cup| 10|
+|Indonasia     | To visit bali beach           | 10|
+|China         | To explore more about farming | 12|
