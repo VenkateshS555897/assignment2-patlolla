@@ -1,0 +1,2 @@
+# Venkateshwar Reddy Patlolla
+I am born and brought up in Hyderabad. It is a capital city in Telangana state of country India. I have completed my bachelors from JNTU university. My dream is to work as a Machine Learning Engineer to acheive it I came usa to study MS in Northwest missouri state university. My hobbies are watching movies and exploring different tools and technologies you can find my picture here ![Click here to view my picture](MyPicture_Venkateshwar.jpeg)
