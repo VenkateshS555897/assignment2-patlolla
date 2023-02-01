@@ -31,3 +31,11 @@ I have travelled to 5 coutries in that, I would like to recommend four countries
 |Qatar         |   To watch live FIFA World Cup| 10|
 |Indonasia     | To visit bali beach           | 10|
 |China         | To explore more about farming | 12|
+
+***
+
+## Favourite Quotes
+
+> “It’s not magic that takes us to another world – it’s storytelling.” -*Val McDermid*
+
+> “It’s okay to look at the past and the future. Just don’t stare.” -*Lisa Lieberman-Wang*
