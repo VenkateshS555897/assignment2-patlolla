@@ -12,6 +12,7 @@ My favourite cricket team is Indian Cricket Team. My three favourite cricket pla
 1. Dhoni
 2. Sachin
 3. Kohli
+
 Other Teams I would like to watch play are
 * Australia
 * Bangladesh
